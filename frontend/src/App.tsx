@@ -5,10 +5,8 @@ import Router from "./components/Router";
 
 export const App = () => {
   return (
-    <div className="App">
-        <header className="main">
-            <Router />
-        </header>
+    <div className="main">
+        <Router />
     </div>
   );
 }

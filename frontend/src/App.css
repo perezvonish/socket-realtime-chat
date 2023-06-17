@@ -11,6 +11,12 @@ body,
   background-color: rgba(33, 33, 33, 1);
 }
 
+.backgroundColor {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: aliceblue
+}
+
 .main {
   background-color: aliceblue;
   min-height: 100vh;
